@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/bitrise-io/go-utils/errorutil"
+	"github.com/arifken/go-utils/errorutil"
 )
 
 // ----------

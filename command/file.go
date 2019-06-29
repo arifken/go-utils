@@ -5,7 +5,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/bitrise-io/go-utils/pathutil"
+	"github.com/arifken/go-utils/pathutil"
 )
 
 // CopyFile ...

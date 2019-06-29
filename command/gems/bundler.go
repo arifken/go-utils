@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"os/exec"
 
-	"github.com/bitrise-io/go-utils/command"
-	"github.com/bitrise-io/go-utils/command/rubycommand"
+	"github.com/arifken/go-utils/command"
+	"github.com/arifken/go-utils/command/rubycommand"
 )
 
 // InstallBundlerCommand returns a command to install a specific bundler version

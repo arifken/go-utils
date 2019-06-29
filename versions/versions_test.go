@@ -3,7 +3,7 @@ package versions
 import (
 	"testing"
 
-	"github.com/bitrise-io/go-utils/testutil"
+	"github.com/arifken/go-utils/testutil"
 )
 
 func TestCompareVersions(t *testing.T) {

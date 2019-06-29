@@ -8,7 +8,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/bitrise-io/go-utils/command"
+	"github.com/arifken/go-utils/command"
 )
 
 const (

@@ -3,7 +3,7 @@ package sliceutil
 import (
 	"testing"
 
-	"github.com/bitrise-io/go-utils/testutil"
+	"github.com/arifken/go-utils/testutil"
 	"github.com/stretchr/testify/require"
 )
 

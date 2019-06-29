@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/bitrise-io/go-utils/builtinutil"
+	"github.com/arifken/go-utils/builtinutil"
 	"github.com/stretchr/testify/require"
 )
 

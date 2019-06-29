@@ -3,7 +3,7 @@ package envutil
 import "testing"
 import "os"
 import "github.com/stretchr/testify/require"
-import "github.com/bitrise-io/go-utils/pointers"
+import "github.com/arifken/go-utils/pointers"
 
 func TestSetenvForFunction(t *testing.T) {
 	// set an original value

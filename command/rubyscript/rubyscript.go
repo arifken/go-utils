@@ -3,9 +3,9 @@ package rubyscript
 import (
 	"path"
 
-	"github.com/bitrise-io/go-utils/command"
-	"github.com/bitrise-io/go-utils/fileutil"
-	"github.com/bitrise-io/go-utils/pathutil"
+	"github.com/arifken/go-utils/command"
+	"github.com/arifken/go-utils/fileutil"
+	"github.com/arifken/go-utils/pathutil"
 )
 
 // Helper ...

@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"path/filepath"
 
-	"github.com/bitrise-io/go-utils/command"
-	"github.com/bitrise-io/go-utils/pathutil"
+	"github.com/arifken/go-utils/command"
+	"github.com/arifken/go-utils/pathutil"
 )
 
 // ZipDir ...
